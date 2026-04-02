@@ -74,4 +74,4 @@ See the individual service READMEs for setup instructions:
 
 ---
 
-Made and maintained with love by [Headpat](https://headpat.space)
+Made and maintained with 🧡 by [Headpat](https://headpat.space)
