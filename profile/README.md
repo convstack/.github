@@ -67,10 +67,9 @@ Each service is its own standalone project with its own Dockerfile, dependencies
 
 ## Getting Started
 
-See the individual service READMEs for setup instructions:
+See the individual service READMEs for setup instructions. You can find them here:
 
-- [Lanyard](../lanyard/README.md)
-- [Dashboard](../dashboard/README.md)
+- [convstack](../../../../convstack)
 
 ---
 
