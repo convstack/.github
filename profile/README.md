@@ -53,14 +53,13 @@ The platform is designed so that any backend service can register with Lanyard a
 - **Linting:** Biome
 - **Infrastructure:** Docker Compose, Kubernetes
 
-## Repository Structure
+## Repository Structure Example
 
 ```
 convention-apps/
 ├── lanyard/          # Identity provider + service catalog
 ├── dashboard/        # Auto-discovering UI shell
-├── docs/             # Plans and documentation
-└── .github/          # This README
+├── guidebook/        # Markdown based Wiki
 ```
 
 Each service is its own standalone project with its own Dockerfile, dependencies, and configuration.
